@@ -1,0 +1,26 @@
+<SCRIPT LANGUAGE="JAVASCRIPT">
+<!-- 
+
+var r_text = new Array (); 
+r_text[0] = "YES"; 
+r_text[1] = "NO"; 
+r_text[2] = "MAYBE"; 
+
+var i = Math.floor(r_text.length * Math.random()); 
+
+document.write("<br /><br /><br /><br /><br /><br /><br /><center><FONT SIZE=72><FONT COLOR='#000000'>" + 
+r_text[i]  + "</FONT></center><br />"); 
+
+var bgcolorlist=new Array("#FFFFFF") 
+
+document.body.style.background=bgcolorlist[Math.floor(Math.random()*bgcolorlist.length)]; 
+
+</script><br> <br> 
+    <br> 
+    <br> 
+    <style type="text/css"> 
+<!-- 
+body,td,th { 
+     color: #000; 
+     font-family: Helvetica, sans-serif; 
+</html> 
